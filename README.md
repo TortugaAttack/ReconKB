@@ -53,3 +53,22 @@ rkbr:TortugAttack rkbp:label ...
             rkbp:twitter ....
             ...
 ``` 
+
+## Information gathering
+The information which will be searched for:
+* websites/IPs 
+* associates/employees -> emails/names/usernames/social media/...
+* prizes
+* tech specifics
+* files (pptx, pdf,...)
+* social media
+* jobs/tech specs for the jobs
+* sub companies and their info
+* email/contact
+* location
+* past security breaches
+* terms/keywords
+* session ids/google
+* session id info
+* websites with user input (to check for xss and sql injection)
+* any semantic relation found in texts about the company (f.e. "The security software we use is an award winning open source software with over 100 developers" will be ideally mapped to securitySoftware -> awardWinning, openSource, >100 developers )
