@@ -1,6 +1,6 @@
 # ReconKB
 ReconKB aims to develop a semantic recon tool for pentesting which will automatically search the web for information about a target. 
-The tool will then tries to receive as much information about the target as possible and create a RDF knowledge base (see. RDF and SPARQL) which further on can be questioned on the fly of the further pentest. 
+The tool is trying to receive as much information about the target as possible and create a RDF knowledge base (see. RDF and SPARQL) which further on can be questioned on the fly of the further pentest. 
 
 ## KB scheme
 The knowledge base scheme will be mostly generic, but will aim to use the following predefined schmes:
