@@ -76,4 +76,4 @@ The information which will be searched for:
 
 ## ReconKB preliminary Stack
 
-[Stack](https://github.com/TortugaAttack/ReconKB/blob/master/ReconKB%20stack.png)
+![Stack](https://github.com/TortugaAttack/ReconKB/blob/master/ReconKB%20stack.png)
