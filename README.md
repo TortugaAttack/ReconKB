@@ -72,3 +72,8 @@ The information which will be searched for:
 * session id info
 * websites with user input (to check for xss and sql injection)
 * any semantic relation found in texts about the company (f.e. "The security software we use is an award winning open source software with over 100 developers" will be ideally mapped to securitySoftware -> awardWinning, openSource, >100 developers )
+
+
+## ReconKB preliminary Stack
+
+[Stack](https://github.com/TortugaAttack/ReconKB/blob/master/ReconKB%20stack.png)
